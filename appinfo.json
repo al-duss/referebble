@@ -11,7 +11,7 @@
             {
                 "file": "images/whistle.png",
                 "menuIcon": true,
-                "name": "WHISTLE",
+                "name": "WHISTLE_MAIN",
                 "type": "png"
             }
         ]
