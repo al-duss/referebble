@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "alex93dussault@gmail.com",
+    "longName": "Referebble",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/whistle.png",
+                "menuIcon": true,
+                "name": "WHISTLE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Ref",
+    "uuid": "1ff74c40-9bcd-4296-93e4-3a2e9b4b9a65",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
